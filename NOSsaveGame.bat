@@ -1,1 +1,1 @@
-git init https://github.com/Jackindrop/Save-Game-Controller---NOS.git
+git checkout main
